@@ -4,6 +4,7 @@
 		<TargetFrameworks>net472</TargetFrameworks>
 		<OutputType>WinExe</OutputType>
 		<GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
+		<SignAssembly>false</SignAssembly>
 	</PropertyGroup>
 	<ItemGroup>
 		<ProjectReference Include="..\OpenMcdf.Extensions\OpenMcdf.Extensions.csproj" />
